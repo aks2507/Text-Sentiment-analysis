@@ -1,4 +1,4 @@
-# Project Description
+# Project Description<img src="https://media.giphy.com/media/13kUmFYmDejfEI/giphy.gif" width="90px">
 Parsing texts in order to extract emotions from them. 
 The process includes slicing and dicing heaps of unstructured, heterogeneous documents into easy-to-manage and interpret data pieces to classify emotions.
 Emotions will be classified into five categories:
